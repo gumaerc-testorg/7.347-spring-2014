@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image indicating course enrollment numbers.
-file: /media/courses/7-347-epigenetic-regulation-of-stem-cells-spring-2014/587a60d574fec3a40e9efb9157239571_7-347_stat-students.png
+file: /courses/7-347-epigenetic-regulation-of-stem-cells-spring-2014/587a60d574fec3a40e9efb9157239571_7-347_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
@@ -16,3 +16,5 @@ resourcetype: Image
 title: 7-347_stat-students
 uid: 587a60d5-74fe-c3a4-0e9e-fb9157239571
 ---
+Image indicating course enrollment numbers.
+
