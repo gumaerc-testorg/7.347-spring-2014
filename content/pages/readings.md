@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 746733c1-7f04-9742-94ed-203e48fe67f9
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Introduction)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Introduction" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ No Readings
 
 Introduction to stem cells and induced pluripotency
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Introduction_to_stem_cells_and_induced_pluripotency)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Introduction_to_stem_cells_and_induced_pluripotency" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +76,7 @@ Takahashi, K., and S. Yamanaka. "[Induction of Pluripotent Stem Cells from Mouse
 
 Epigenetic memory and epigenetic states
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Epigenetic_Memory_and_Epigenetic_states)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Epigenetic_Memory_and_Epigenetic_states" %}}
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Gafni, O., L. Weinberger, et al. "[Derivation of Novel Human Ground State Naive 
 
 DNA methylation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#DNA_methylation)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#DNA_methylation" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ Bhutani, N., J. J. Brady, et al. "[Reprogramming Towards Pluripotency Requires A
 
 DNA methyl-binding proteins
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#DNAmethyl-binding_proteins)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#DNAmethyl-binding_proteins" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Guy, J., J. Gan, et al. "[Reversal of Neurological Defects in a Mouse Model of R
 
 Histone marks and epigenomic sequencing technologies
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Histone_marks_and_epigenomic_sequencing_technologies)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Histone_marks_and_epigenomic_sequencing_technologies" %}}
 
 
 {{< tdclose >}}
@@ -169,7 +174,7 @@ Buro, L. J., S. Shah, et al. "[Chromatin Immunoprecipitation (ChIP) to Assay Dyn
 
 Polycomb group proteins
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Polycomb_group_proteins)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Polycomb_group_proteins" %}}
 
 
 {{< tdclose >}}
@@ -191,7 +196,7 @@ Sneeringer, C. J., M. P. Scott, et al. "[Coordinated Activities of Wild-type Plu
 {{< tdopen >}}
 Enhancers
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Enhancers)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Enhancers" %}}
 
 
 {{< tdclose >}}
@@ -215,7 +220,7 @@ Rada-Iglesias, A., R. Bajpai, et al. "[A Unique Chromatin Signature Uncovers Ear
 
 Super enhancers
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Super_enhancers)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Super_enhancers" %}}
 
 
 {{< tdclose >}}
@@ -239,7 +244,7 @@ Lovén, J., H. A. Hoke, et al. "[Selective Inhibition of Tumor Oncogenes by Disr
 
 Non-coding RNA
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Non-coding_RNA)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Non-coding_RNA" %}}
 
 
 {{< tdclose >}}
@@ -263,7 +268,7 @@ Rinn, J. L., M. Kertesz, et al. "[Functional Demarcation of Active and Silent Ch
 
 Modeling complex biological systems & Student paper discussions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Modeling_complex_biological_systems_Student_paper_discussions)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Modeling_complex_biological_systems_Student_paper_discussions" %}}
 
 
 {{< tdclose >}}
@@ -285,7 +290,7 @@ Umbach, J. A., K. L. Adams, et al. "[Functional Neuromuscular Junctions Formed b
 
 Chromatin nuclear topology
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Chromatin_nuclear_topology)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Chromatin_nuclear_topology" %}}
 
 
 {{< tdclose >}}
@@ -309,7 +314,7 @@ Hou, C., L. Li, et al. "[Gene Density, Transcription, and Insulators Contribute 
 
 Stem Cell Therapy
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Stem_Cell_Therapy)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Stem_Cell_Therapy" %}}
 
 
 {{< tdclose >}}
@@ -333,7 +338,7 @@ Tsuji, O., K. Miura, et al. "[Therapeutic Potential of Appropriately Evaluated S
 
 Final
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Final)
+{{% resource_link 6be8bec6-5fb2-41d4-6042-c806fa910534 "See the Lecture Summary" "#Final" %}}
 
 
 {{< tdclose >}}
