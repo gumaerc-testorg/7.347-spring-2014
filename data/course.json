@@ -44,7 +44,10 @@
     "content": "6afc113b-27e4-be93-24a1-914c0b91873a",
     "website": "7-347-epigenetic-regulation-of-stem-cells-spring-2014"
   },
-  "learning_resource_types": [],
-  "site_uid": "59a976b8-28fd-4edd-8089-5f032d04db8b",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "52ee1e43-573f-410c-8cba-32afb4ba9bb9",
+  "site_short_id": "7.347-spring-2014",
   "title": "Course Metadata"
 }
