@@ -13,7 +13,7 @@ uid: 4dd97231-ae38-3dba-5f80-c530b6dac767
 
 This page focuses on the course _7.347 Epigenetic Regulation of Stem Cells_ as it was taught by Dr. Eric Williams and Dr. Vidya Subramanian in Spring 2014.
 
-This course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. In these pass/fail seminars, students draw upon primary research literature to discuss and learn about current biological research in a highly interactive, small-group setting. This particular seminar focuses on the epigenetic regulation of stem cells.
+This course is one of many {{% resource_link "d8f64de3-618c-4612-9ba0-77419916bc47" "Advanced Undergraduate Seminars" %}} offered by the Biology Department at MIT. In these pass/fail seminars, students draw upon primary research literature to discuss and learn about current biological research in a highly interactive, small-group setting. This particular seminar focuses on the epigenetic regulation of stem cells.
 
 ## Course Outcomes
 

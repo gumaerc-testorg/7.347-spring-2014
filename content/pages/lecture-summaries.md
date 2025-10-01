@@ -127,7 +127,7 @@ The accessibility of DNA to RNA polymerase can be altered via histone modificati
 
 To learn more about this important technique, we have included an optional video from the Journal of Visualized Experiments. This online journal provides videos of scientists performing popular experimental techniques. In this particular video, Buro et al. describe how to perform ChIP using human cells.
 
-Mikkelsen et al. use the ChIP technique to compare histone modifications in pluripotent and differentiated cell types. Using the same technique Bernstein et al. discover bivalent domains. These are regions that contain both a repressive histone mark (H3K27me3) and an activating histone mark (H3K4me3). The genes containing these marks are generally developmental genes that are silenced in pluripotent cells. Bernstein et al. hypothesize that these genes are poised for activation. The data from these and similar experiments have been uploaded to a [free public database (ENCODE)](https://genome.ucsc.edu/ENCODE/). 
+Mikkelsen et al. use the ChIP technique to compare histone modifications in pluripotent and differentiated cell types. Using the same technique Bernstein et al. discover bivalent domains. These are regions that contain both a repressive histone mark (H3K27me3) and an activating histone mark (H3K4me3). The genes containing these marks are generally developmental genes that are silenced in pluripotent cells. Bernstein et al. hypothesize that these genes are poised for activation. The data from these and similar experiments have been uploaded to a {{% resource_link "68b6c06a-c533-4926-9b78-6b7c2de5cfb2" "free public database (ENCODE)" %}}. 
 
 
 {{< tdclose >}}
